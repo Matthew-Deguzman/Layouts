@@ -167,3 +167,12 @@
     margin: 2px;
     flex: 1;
 }
+.mainbox {
+    font-family: "Courier New", serif;
+}
+.aside1 {
+    font-family: "Lucida Console", Lucida, monospace;
+}
+.aside2 {
+    font-family: "Verdana", Verdana, sans-serif;
+}
